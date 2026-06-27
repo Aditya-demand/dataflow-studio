@@ -124,7 +124,7 @@ def clean_dataframe(
             report.whitespace_trimmed += int((before != df[c]).sum())
 
     # Replace missing tokens with NaN
-    df = df.applymap(lambda v: np.nan if _is_missing(v) else v)
+    df = df.map(lambda v: np.nan if _is_missing(v) else v)
 
     for col, t in types.items():
         if t == "number":
