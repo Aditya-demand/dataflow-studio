@@ -167,7 +167,7 @@ function Home() {
 
   const downloadCleanedCsv = () => {
     if (!cleaned.length) return;
-    const csv = Papa.unparse(cleaned);
+    const csv = Papa.unparse(cleaned as Record<string, unknown>[]);
     const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
