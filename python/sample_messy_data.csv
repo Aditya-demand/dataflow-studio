@@ -1,0 +1,229 @@
+OrderID,Date,Region,Product,Channel,Quantity,UnitPrice,Revenue,Customer
+ORD-1000,2024-11-07,north,Widget A,Online,31.0,55.04,$1706.24,Customer 54
+ORD-1001,2/1/2024,South,widget a,online,7.0,70.61,$494.27,Customer 47
+ORD-1002,11-22-2024,EAST,Widget B,Retail,22.0,209.10,$4600.20,Customer 20
+ORD-1003,2024-11-22,,WIDGET B,RETAIL,42.0,18.79,$789.18,Customer 9
+ORD-1004,16/11/2024,North,Gadget,Partner,23.0,112.82,$2594.86,Customer 59
+ORD-1005,01-04-2024,,gadget ,Online,48.0,83.91,$4027.68,Customer 41
+ORD-1006,2024-08-07,north,Sprocket,online,8.0,111.96,$895.68,Customer 2
+ORD-1007,1/9/2024,South,Widget A,Retail,12.0,184.27,$2211.24,Customer 32
+ORD-1008,02-05-2024,EAST,widget a,RETAIL,3.0,40.04,$120.12,Customer 34
+ORD-1009,2024-11-18, west ,Widget B,Partner,22.0,145.29,$3196.38,Customer 36
+ORD-1010,28/4/2024,North,WIDGET B,Online,12.0,,N/A,Customer 0
+ORD-1011,08-09-2024,south,Gadget,online,25.0,36.32,$908.00,Customer 52
+ORD-1012,2024-07-19,north,gadget ,Retail,45.0,48.49,$2182.05,Customer 2
+ORD-1013,29/2/2024,South,Sprocket,RETAIL,48.0,85.26,$4092.48,Customer 38
+ORD-1014,08-23-2024,EAST,Widget A,Partner,2.0,119.53,$239.06,Customer 3
+ORD-1015,2024-01-09, west ,widget a,Online,40.0,203.43,$8137.20,Customer 1
+ORD-1016,27/1/2024,North,Widget B,online,26.0,128.06,$3329.56,Customer 54
+ORD-1017,06-20-2024,,WIDGET B,Retail,39.0,196.68,$7670.52,Customer 54
+ORD-1018,2024-09-02,,Gadget,RETAIL,40.0,173.05,$6922.00,Customer 29
+ORD-1019,18/9/2024,South,gadget ,Partner,5.0,49.70,$248.50,Customer 43
+ORD-1020,05-10-2024,EAST,Sprocket,Online,17.0,78.01,$1326.17,Customer 13
+ORD-1021,2024-05-26, west ,Widget A,online,8.0,189.31,$1514.48,Customer 30
+ORD-1022,1/10/2024,North,widget a,Retail,21.0,194.55,$4085.55,Customer 9
+ORD-1023,06-20-2024,south,Widget B,RETAIL,37.0,145.29,$5375.73,Customer 15
+ORD-1024,2024-10-30,north,WIDGET B,Partner,48.0,50.58,$2427.84,Customer 17
+ORD-1025,29/10/2024,South,Gadget,Online,30.0,105.84,$3175.20,Customer 6
+ORD-1025,29/10/2024,South,Gadget,Online,30.0,105.84,$3175.20,Customer 6
+ORD-1026,05-03-2024,EAST,gadget ,online,16.0,135.62,$2169.92,Customer 44
+ORD-1027,2024-01-21, west ,Sprocket,Retail,1.0,156.00,$156.00,Customer 45
+ORD-1028,17/8/2024,,Widget A,RETAIL,40.0,193.13,$7725.20,  
+ORD-1029,05-23-2024,south,widget a,Partner,1.0,47.50,$47.50,  
+ORD-1030,2024-04-10,north,Widget B,Online,29.0,14.22,$412.38,Customer 51
+ORD-1031,26/6/2024,South,WIDGET B,online,22.0,48.25,$1061.50,  
+ORD-1032,08-05-2024,EAST,Gadget,Retail,23.0,20.14,$463.22,Customer 57
+ORD-1033,2024-02-20, west ,gadget ,RETAIL,6.0,72.74,$436.44,Customer 18
+ORD-1034,12/2/2024,North,Sprocket,Partner,37.0,124.73,$4615.01,Customer 52
+ORD-1035,09-18-2024,south,Widget A,Online,5.0,174.78,$873.90,Customer 5
+ORD-1036,2024-08-26,north,widget a,online,23.0,15.34,$352.82,Customer 53
+ORD-1037,24/2/2024,South,Widget B,Retail,28.0,60.55,$1695.40,Customer 35
+ORD-1038,02-03-2024,EAST,WIDGET B,RETAIL,42.0,176.11,$7396.62,Customer 8
+ORD-1039,2024-08-06, west ,Gadget,Partner,27.0,75.97,$2051.19,Customer 20
+ORD-1040,5/9/2024,North,gadget ,Online,43.0,,N/A,Customer 17
+ORD-1041,06-14-2024,south,Sprocket,online,7.0,,N/A,Customer 50
+ORD-1042,2024-04-11,north,Widget A,Retail,24.0,96.96,$2327.04,Customer 37
+ORD-1043,11/4/2024,South,widget a,RETAIL,35.0,165.29,$5785.15,Customer 20
+ORD-1044,05-02-2024,EAST,Widget B,Partner,,161.49,N/A,Customer 44
+ORD-1045,2024-06-25, west ,WIDGET B,Online,32.0,46.85,$1499.20,Customer 53
+ORD-1046,12/2/2024,North,Gadget,online,36.0,178.61,$6429.96,Customer 18
+ORD-1047,07-30-2024,south,gadget ,Retail,43.0,154.26,$6633.18,Customer 45
+ORD-1048,2024-04-22,north,Sprocket,RETAIL,,118.47,N/A,Customer 25
+ORD-1049,7/1/2024,South,Widget A,Partner,36.0,193.89,$6980.04,Customer 1
+ORD-1050,09-07-2024,EAST,widget a,Online,7.0,175.06,$1225.42,Customer 8
+ORD-1050,09-07-2024,EAST,widget a,Online,7.0,175.06,$1225.42,Customer 8
+ORD-1051,2024-05-23, west ,Widget B,online,5.0,45.36,$226.80,Customer 55
+ORD-1052,4/9/2024,North,WIDGET B,Retail,23.0,163.82,$3767.86,Customer 54
+ORD-1053,02-20-2024,south,Gadget,RETAIL,2.0,153.95,$307.90,  
+ORD-1054,2024-11-06,north,gadget ,Partner,49.0,59.32,$2906.68,Customer 30
+ORD-1055,11/2/2024,South,Sprocket,Online,,34.63,N/A,Customer 36
+ORD-1056,06-08-2024,EAST,Widget A,online,9.0,115.39,$1038.51,Customer 40
+ORD-1057,2024-08-20, west ,widget a,Retail,31.0,168.16,$5212.96,Customer 15
+ORD-1058,14/2/2024,North,Widget B,RETAIL,27.0,56.13,$1515.51,Customer 58
+ORD-1059,08-31-2024,south,WIDGET B,Partner,25.0,18.11,$452.75,Customer 59
+ORD-1060,2024-01-22,north,Gadget,Online,45.0,162.19,$7298.55,Customer 27
+ORD-1061,2/10/2024,South,gadget ,online,35.0,157.14,$5499.90,Customer 4
+ORD-1062,09-06-2024,EAST,Sprocket,Retail,20.0,75.89,$1517.80,Customer 55
+ORD-1063,2024-04-07, west ,Widget A,RETAIL,26.0,125.08,$3252.08,Customer 35
+ORD-1064,21/9/2024,North,widget a,Partner,40.0,96.70,$3868.00,Customer 38
+ORD-1065,03-18-2024,south,Widget B,Online,41.0,51.81,$2124.21,Customer 7
+ORD-1066,2024-01-22,north,WIDGET B,online,40.0,103.73,$4149.20,Customer 0
+ORD-1067,26/6/2024,South,Gadget,Retail,26.0,,N/A,Customer 2
+ORD-1068,11-03-2024,EAST,gadget ,RETAIL,,136.21,N/A,Customer 47
+ORD-1069,2024-07-14, west ,Sprocket,Partner,1.0,49.57,$49.57,Customer 11
+ORD-1070,3/11/2024,North,Widget A,Online,35.0,103.16,$3610.60,Customer 22
+ORD-1071,08-11-2024,south,widget a,online,21.0,89.22,$1873.62,Customer 24
+ORD-1072,2024-05-19,north,Widget B,Retail,23.0,77.61,$1785.03,Customer 22
+ORD-1073,5/10/2024,South,WIDGET B,RETAIL,48.0,16.88,$810.24,Customer 26
+ORD-1074,04-04-2024,EAST,Gadget,Partner,29.0,145.53,$4220.37,Customer 6
+ORD-1075,2024-03-01, west ,gadget ,Online,32.0,209.81,$6713.92,Customer 17
+ORD-1075,2024-03-01, west ,gadget ,Online,32.0,209.81,$6713.92,Customer 17
+ORD-1076,1/11/2024,North,Sprocket,online,19.0,187.81,$3568.39,Customer 19
+ORD-1077,10-18-2024,south,Widget A,Retail,46.0,,N/A,Customer 41
+ORD-1078,2024-06-27,north,widget a,RETAIL,25.0,175.61,$4390.25,Customer 48
+ORD-1079,10/9/2024,South,Widget B,Partner,41.0,50.27,$2061.07,Customer 22
+ORD-1080,09-21-2024,EAST,WIDGET B,Online,,173.49,N/A,  
+ORD-1081,2024-09-11, west ,Gadget,online,29.0,85.32,$2474.28,Customer 14
+ORD-1082,6/4/2024,North,gadget ,Retail,24.0,50.63,$1215.12,Customer 51
+ORD-1083,04-10-2024,south,Sprocket,RETAIL,20.0,164.37,$3287.40,Customer 4
+ORD-1084,2024-02-22,north,Widget A,Partner,7.0,107.62,$753.34,Customer 35
+ORD-1085,23/7/2024,South,widget a,Online,20.0,61.40,$1228.00,Customer 45
+ORD-1086,01-23-2024,EAST,Widget B,online,7.0,37.14,$259.98,Customer 56
+ORD-1087,2024-04-03, west ,WIDGET B,Retail,11.0,43.01,$473.11,  
+ORD-1088,9/1/2024,North,Gadget,RETAIL,8.0,168.49,$1347.92,Customer 9
+ORD-1089,02-18-2024,south,gadget ,Partner,20.0,42.18,$843.60,Customer 35
+ORD-1090,2024-08-08,north,Sprocket,Online,,130.07,N/A,Customer 6
+ORD-1091,10/11/2024,South,Widget A,online,8.0,16.49,$131.92,Customer 6
+ORD-1092,11-05-2024,EAST,widget a,Retail,49.0,145.68,$7138.32,Customer 53
+ORD-1093,2024-07-19, west ,Widget B,RETAIL,19.0,,N/A,Customer 30
+ORD-1094,16/7/2024,North,WIDGET B,Partner,21.0,77.34,$1624.14,Customer 33
+ORD-1095,03-01-2024,south,Gadget,Online,48.0,65.68,$3152.64,Customer 26
+ORD-1096,2024-05-04,north,gadget ,online,42.0,,N/A,Customer 4
+ORD-1097,17/2/2024,South,Sprocket,Retail,3.0,63.52,$190.56,Customer 41
+ORD-1098,08-24-2024,EAST,Widget A,RETAIL,35.0,33.52,$1173.20,  
+ORD-1099,2024-07-07, west ,widget a,Partner,27.0,,N/A,Customer 49
+ORD-1100,19/7/2024,North,Widget B,Online,29.0,182.47,$5291.63,Customer 37
+ORD-1100,19/7/2024,North,Widget B,Online,29.0,182.47,$5291.63,Customer 37
+ORD-1101,11-05-2024,south,WIDGET B,online,32.0,154.98,$4959.36,Customer 7
+ORD-1102,2024-01-09,north,Gadget,Retail,28.0,156.16,$4372.48,Customer 42
+ORD-1103,18/1/2024,South,gadget ,RETAIL,43.0,71.10,$3057.30,Customer 36
+ORD-1104,03-30-2024,EAST,Sprocket,Partner,35.0,52.88,$1850.80,Customer 3
+ORD-1105,2024-07-23, west ,Widget A,Online,14.0,25.02,$350.28,Customer 49
+ORD-1106,5/6/2024,North,widget a,online,18.0,183.06,$3295.08,  
+ORD-1107,01-22-2024,south,Widget B,Retail,12.0,24.64,$295.68,Customer 22
+ORD-1108,2024-05-21,,WIDGET B,RETAIL,24.0,73.98,$1775.52,Customer 0
+ORD-1109,20/2/2024,South,Gadget,Partner,4.0,125.88,$503.52,Customer 34
+ORD-1110,07-21-2024,EAST,gadget ,Online,28.0,170.56,$4775.68,Customer 27
+ORD-1111,2024-07-11, west ,Sprocket,online,9.0,173.39,$1560.51,Customer 9
+ORD-1112,5/10/2024,North,Widget A,Retail,36.0,84.46,$3040.56,Customer 10
+ORD-1113,07-03-2024,south,widget a,RETAIL,41.0,30.26,$1240.66,Customer 49
+ORD-1114,2024-07-18,north,Widget B,Partner,42.0,,N/A,Customer 29
+ORD-1115,3/6/2024,South,WIDGET B,Online,47.0,107.41,$5048.27,Customer 4
+ORD-1116,06-06-2024,EAST,Gadget,online,22.0,206.42,$4541.24,Customer 26
+ORD-1117,2024-09-23, west ,gadget ,Retail,44.0,,N/A,Customer 46
+ORD-1118,8/6/2024,North,Sprocket,RETAIL,23.0,43.08,$990.84,Customer 58
+ORD-1119,01-18-2024,south,Widget A,Partner,47.0,81.30,$3821.10,Customer 7
+ORD-1120,2024-05-05,north,widget a,Online,2.0,61.17,$122.34,Customer 51
+ORD-1121,14/5/2024,South,Widget B,online,27.0,157.19,$4244.13,Customer 55
+ORD-1122,11-16-2024,EAST,WIDGET B,Retail,22.0,39.18,$861.96,Customer 51
+ORD-1123,2024-02-13, west ,Gadget,RETAIL,10.0,191.15,$1911.50,Customer 41
+ORD-1124,27/9/2024,North,gadget ,Partner,17.0,,N/A,Customer 52
+ORD-1125,01-23-2024,south,Sprocket,Online,46.0,157.44,$7242.24,Customer 27
+ORD-1125,01-23-2024,south,Sprocket,Online,46.0,157.44,$7242.24,Customer 27
+ORD-1126,2024-07-17,north,Widget A,online,8.0,166.66,$1333.28,Customer 29
+ORD-1127,28/3/2024,South,widget a,Retail,15.0,84.57,$1268.55,Customer 56
+ORD-1128,09-03-2024,EAST,Widget B,RETAIL,19.0,99.64,$1893.16,Customer 44
+ORD-1129,2024-02-16, west ,WIDGET B,Partner,,122.90,N/A,Customer 30
+ORD-1130,16/3/2024,North,Gadget,Online,25.0,162.14,$4053.50,Customer 16
+ORD-1131,04-12-2024,south,gadget ,online,32.0,149.43,$4781.76,Customer 29
+ORD-1132,2024-07-28,north,Sprocket,Retail,,125.59,N/A,Customer 51
+ORD-1133,20/7/2024,South,Widget A,RETAIL,38.0,26.01,$988.38,Customer 9
+ORD-1134,08-27-2024,EAST,widget a,Partner,13.0,67.32,$875.16,Customer 28
+ORD-1135,2024-11-09, west ,Widget B,Online,,130.26,N/A,Customer 35
+ORD-1136,18/4/2024,North,WIDGET B,online,,,N/A,Customer 44
+ORD-1137,03-07-2024,south,Gadget,Retail,27.0,,N/A,Customer 4
+ORD-1138,2024-10-26,north,gadget ,RETAIL,11.0,,N/A,Customer 39
+ORD-1139,23/10/2024,South,Sprocket,Partner,46.0,15.59,$717.14,  
+ORD-1140,01-31-2024,EAST,Widget A,Online,34.0,41.15,$1399.10,Customer 37
+ORD-1141,2024-06-21, west ,widget a,online,17.0,145.28,$2469.76,Customer 1
+ORD-1142,3/2/2024,North,Widget B,Retail,12.0,173.43,$2081.16,Customer 35
+ORD-1143,03-08-2024,south,WIDGET B,RETAIL,1.0,,N/A,Customer 48
+ORD-1144,2024-09-25,north,Gadget,Partner,13.0,17.06,$221.78,Customer 27
+ORD-1145,4/10/2024,South,gadget ,Online,12.0,72.27,$867.24,  
+ORD-1146,08-24-2024,EAST,Sprocket,online,22.0,110.51,$2431.22,Customer 59
+ORD-1147,2024-04-14,,Widget A,Retail,43.0,29.30,$1259.90,Customer 56
+ORD-1148,21/8/2024,North,widget a,RETAIL,,110.82,N/A,Customer 34
+ORD-1149,04-29-2024,south,Widget B,Partner,47.0,91.50,$4300.50,Customer 57
+ORD-1150,2024-08-28,north,WIDGET B,Online,6.0,12.80,$76.80,Customer 12
+ORD-1150,2024-08-28,north,WIDGET B,Online,6.0,12.80,$76.80,Customer 12
+ORD-1151,12/4/2024,South,Gadget,online,24.0,21.39,$513.36,Customer 19
+ORD-1152,01-19-2024,EAST,gadget ,Retail,36.0,86.30,$3106.80,Customer 1
+ORD-1153,2024-10-09, west ,Sprocket,RETAIL,33.0,202.02,$6666.66,Customer 39
+ORD-1154,10/10/2024,North,Widget A,Partner,29.0,153.99,$4465.71,Customer 48
+ORD-1155,03-11-2024,south,widget a,Online,,118.37,N/A,Customer 55
+ORD-1156,2024-10-01,north,Widget B,online,4.0,29.52,$118.08,Customer 26
+ORD-1157,19/11/2024,South,WIDGET B,Retail,32.0,204.03,$6528.96,Customer 48
+ORD-1158,03-31-2024,EAST,Gadget,RETAIL,44.0,50.09,$2203.96,Customer 33
+ORD-1159,2024-02-11,,gadget ,Partner,6.0,38.37,$230.22,Customer 48
+ORD-1160,2/9/2024,North,Sprocket,Online,7.0,94.46,$661.22,Customer 57
+ORD-1161,08-07-2024,south,Widget A,online,39.0,190.88,$7444.32,Customer 23
+ORD-1162,2024-05-15,north,widget a,Retail,16.0,111.03,$1776.48,Customer 48
+ORD-1163,1/2/2024,South,Widget B,RETAIL,1.0,,N/A,Customer 59
+ORD-1164,07-07-2024,EAST,WIDGET B,Partner,1.0,27.28,$27.28,Customer 6
+ORD-1165,2024-04-15, west ,Gadget,Online,40.0,122.42,$4896.80,Customer 48
+ORD-1166,26/1/2024,North,gadget ,online,31.0,88.01,$2728.31,Customer 42
+ORD-1167,07-04-2024,south,Sprocket,Retail,27.0,208.37,$5625.99,Customer 43
+ORD-1168,2024-09-22,north,Widget A,RETAIL,21.0,137.93,$2896.53,Customer 23
+ORD-1169,15/10/2024,South,widget a,Partner,9.0,193.87,$1744.83,Customer 27
+ORD-1170,10-23-2024,EAST,Widget B,Online,21.0,16.01,$336.21,Customer 25
+ORD-1171,2024-01-25, west ,WIDGET B,online,15.0,47.09,$706.35,Customer 2
+ORD-1172,18/10/2024,North,Gadget,Retail,30.0,75.77,$2273.10,  
+ORD-1173,09-25-2024,south,gadget ,RETAIL,19.0,183.97,$3495.43,Customer 15
+ORD-1174,2024-09-13,north,Sprocket,Partner,15.0,,N/A,Customer 53
+ORD-1175,12/7/2024,South,Widget A,Online,23.0,69.39,$1595.97,Customer 6
+ORD-1175,12/7/2024,South,Widget A,Online,23.0,69.39,$1595.97,Customer 6
+ORD-1176,10-09-2024,EAST,widget a,online,,206.73,N/A,Customer 46
+ORD-1177,2024-02-02, west ,Widget B,Retail,13.0,167.42,$2176.46,  
+ORD-1178,11/7/2024,North,WIDGET B,RETAIL,44.0,74.96,$3298.24,Customer 11
+ORD-1179,03-09-2024,south,Gadget,Partner,,82.40,N/A,Customer 55
+ORD-1180,2024-05-09,north,gadget ,Online,26.0,67.97,$1767.22,Customer 24
+ORD-1181,17/10/2024,South,Sprocket,online,27.0,86.92,$2346.84,Customer 3
+ORD-1182,02-05-2024,EAST,Widget A,Retail,47.0,132.70,$6236.90,Customer 45
+ORD-1183,2024-06-04, west ,widget a,RETAIL,6.0,66.50,$399.00,Customer 29
+ORD-1184,20/11/2024,North,Widget B,Partner,15.0,111.79,$1676.85,Customer 18
+ORD-1185,01-22-2024,south,WIDGET B,Online,39.0,35.57,$1387.23,Customer 52
+ORD-1186,2024-06-04,north,Gadget,online,7.0,91.57,$640.99,Customer 33
+ORD-1187,21/9/2024,South,gadget ,Retail,32.0,207.90,$6652.80,Customer 28
+ORD-1188,05-03-2024,EAST,Sprocket,RETAIL,45.0,121.19,$5453.55,Customer 0
+ORD-1189,2024-01-28, west ,Widget A,Partner,36.0,68.63,$2470.68,Customer 5
+ORD-1190,20/10/2024,North,widget a,Online,46.0,,N/A,Customer 20
+ORD-1191,09-09-2024,south,Widget B,online,,193.41,N/A,Customer 37
+ORD-1192,2024-10-11,north,WIDGET B,Retail,47.0,,N/A,Customer 21
+ORD-1193,12/8/2024,South,Gadget,RETAIL,19.0,114.35,$2172.65,Customer 22
+ORD-1194,11-25-2024,EAST,gadget ,Partner,13.0,35.31,$459.03,Customer 21
+ORD-1195,2024-03-25, west ,Sprocket,Online,1.0,144.37,$144.37,  
+ORD-1196,7/11/2024,North,Widget A,online,5.0,,N/A,Customer 51
+ORD-1197,08-04-2024,south,widget a,Retail,34.0,189.50,$6443.00,Customer 2
+ORD-1198,2024-07-23,north,Widget B,RETAIL,3.0,92.00,$276.00,Customer 14
+ORD-1199,5/11/2024,South,WIDGET B,Partner,43.0,,N/A,Customer 20
+ORD-1200,05-19-2024,EAST,Gadget,Online,1.0,101.99,$101.99,Customer 24
+ORD-1200,05-19-2024,EAST,Gadget,Online,1.0,101.99,$101.99,Customer 24
+ORD-1201,2024-11-22, west ,gadget ,online,33.0,103.35,$3410.55,Customer 23
+ORD-1202,1/2/2024,North,Sprocket,Retail,25.0,39.69,$992.25,Customer 45
+ORD-1203,10-03-2024,south,Widget A,RETAIL,6.0,190.46,$1142.76,Customer 20
+ORD-1204,2024-07-12,north,widget a,Partner,22.0,37.72,$829.84,Customer 15
+ORD-1205,19/9/2024,South,Widget B,Online,19.0,151.61,$2880.59,Customer 52
+ORD-1206,04-01-2024,EAST,WIDGET B,online,34.0,,N/A,Customer 19
+ORD-1207,2024-08-07, west ,Gadget,Retail,1.0,,N/A,Customer 39
+ORD-1208,24/2/2024,North,gadget ,RETAIL,31.0,155.18,$4810.58,Customer 23
+ORD-1209,04-30-2024,south,Sprocket,Partner,7.0,194.36,$1360.52,  
+ORD-1210,2024-06-28,north,Widget A,Online,18.0,85.90,$1546.20,Customer 15
+ORD-1211,17/4/2024,South,widget a,online,26.0,145.65,$3786.90,Customer 19
+ORD-1212,04-23-2024,EAST,Widget B,Retail,2.0,13.51,$27.02,Customer 27
+ORD-1213,2024-02-08, west ,WIDGET B,RETAIL,,188.70,N/A,Customer 23
+ORD-1214,13/4/2024,North,Gadget,Partner,31.0,34.49,$1069.19,Customer 6
+ORD-1215,02-08-2024,south,gadget ,Online,48.0,207.25,$9948.00,Customer 16
+ORD-1216,2024-08-06,north,Sprocket,online,7.0,67.64,$473.48,Customer 58
+ORD-1217,14/2/2024,South,Widget A,Retail,5.0,132.31,$661.55,Customer 49
+ORD-1218,09-17-2024,EAST,widget a,RETAIL,37.0,84.08,$3110.96,Customer 58
+ORD-1219,2024-04-09, west ,Widget B,Partner,40.0,98.71,$3948.40,Customer 1
